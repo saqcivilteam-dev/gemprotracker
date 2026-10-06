@@ -1,0 +1,8 @@
+{
+  "name": "Gaela Tracker Studio",
+  "description": "Customizable multi-tracker studio with collapsible list folders, telecom SAQ process SLA tracking (21d Property Docs, 44d Pre-Con, 21d Post-Con, 7d FAC), 1-week warnings, 14-day stalled site reports, and cloud database sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
